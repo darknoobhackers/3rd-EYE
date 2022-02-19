@@ -1,10 +1,14 @@
 
 
 
-                                           <title="Made in INDIA" 
+                                              MADE IN INDIA TOOL 
+                                            
+                                            
+                                            
+                                            
                                              ## ABOUT TOOL :
 
-seeu is a bash based script which is officially made for hacking cameras of devices with help of portforwarding and google bypass features. This tool works on both rooted Android device and Non-rooted Android device.
+3rd-EYE is a bash based script which is officially made for hacking cameras of devices with help of portforwarding and google bypass features. This tool works on both rooted Android device and Non-rooted Android device.
 
 
 
